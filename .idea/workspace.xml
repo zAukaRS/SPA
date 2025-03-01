@@ -5,34 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87295492-9525-4c00-b739-e81c7e4621a1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/my-app/public/img/Ноутбук.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/public/img/Планшет.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/public/img/Смартфон.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/components/CartPanel.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/components/Checkout.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/components/LoginForm.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/views/ProfileView.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/users.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app" beforeDir="false" afterPath="$PROJECT_DIR$/my-app" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-app/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/components/Cart.vue" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/components/Cart.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/components/CartPanel.vue" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/components/CartPanel.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-app/src/components/ProductList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/components/ProductList.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/router/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/store/auth.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/store/cart.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/store/cart.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/store/products.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/store/products.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/store/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/store/user.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/views/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/views/Login.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/views/Register.vue" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/views/Register.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/views/Orders.vue" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/views/Orders.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/users.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/users.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,9 +24,9 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="tsconfig.json" />
         <option value="Vue Composition API Component" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -115,6 +95,9 @@
       <workItem from="1740737331380" duration="190000" />
       <workItem from="1740742232845" duration="707000" />
       <workItem from="1740743621560" duration="13951000" />
+      <workItem from="1740775794543" duration="9456000" />
+      <workItem from="1740785522852" duration="4508000" />
+      <workItem from="1740805629495" duration="1639000" />
     </task>
     <servers />
   </component>
